@@ -91,6 +91,7 @@ Created an interactive Power BI dashboard using:
 ## 📊 Dashboard Highlights
 <img width="1197" height="683" alt="Netflix_Dashboard" src="https://github.com/user-attachments/assets/31048f20-8a0a-4da9-bc6c-81bc4bfaf69e" />
 
+
 The dashboard includes:
 
 -   Total Titles
