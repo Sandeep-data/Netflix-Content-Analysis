@@ -125,7 +125,7 @@ Netflix Content Analysis/
 ├── Netflix_Content_Analysis.sql
 ├── Netflix_Content_Analysis.ipynb
 ├── Netflix_Content_Analysis.pbix
-└── Netflix_Dashboard.png
+├── Netflix_Dashboard.png
 ├── README.md
 ```
 
