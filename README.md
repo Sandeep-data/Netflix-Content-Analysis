@@ -121,12 +121,12 @@ The dashboard includes:
 ``` text
 Netflix Content Analysis/
 │
-├── Netflix_Dashboard.pbix
-├── Netflix_SQL.sql
-├── Netflix_Python.ipynb
-├── netflix_titles.csv
-├── Dashboard.png
-└── README.md
+├── Netflix_Content_Analysis.xlsx
+├── Netflix_Content_Analysis.sql
+├── Netflix_Content_Analysis.ipynb
+├── Netflix_Content_Analysis.pbix
+└── Netflix_Dashboard.png
+├── README.md
 ```
 
 ------------------------------------------------------------------------
